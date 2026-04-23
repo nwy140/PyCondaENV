@@ -127,7 +127,6 @@ dependencies:
   - libsodium=1.0.20=h83e8143_0
   - libtheora=1.2.0=habf309d_1
   - libtiff=4.7.1=h3a18249_0
-  - libtorch=2.8.0=gpu_cuda128_hde2d49c_303
   - libuv=1.52.0=hd0d7782_0
   - libvorbis=1.3.7=he912a1a_1
   - libwebp-base=1.6.0=hbf3958f_0
