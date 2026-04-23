@@ -24,9 +24,9 @@ dependencies:
   - bleach=6.3.0=py311haa95532_0
   - brotlicffi=1.2.0.0=py311h885b0b7_0
   - bzip2=1.0.8=h2bbff1b_6
-  - ca-certificates=2025.12.2=haa95532_0
+  - ca-certificates=2026.3.19=haa95532_0
   - cairo=1.18.4=he9e932c_0
-  - certifi=2026.01.04=py311haa95532_0
+  - certifi=2026.02.25=py311haa95532_0
   - cffi=2.0.0=py311h02ab6af_1
   - charset-normalizer=3.4.4=py311haa95532_0
   - click=8.2.1=py311haa95532_1
@@ -149,6 +149,7 @@ dependencies:
   - mysql-libs=9.3.0=hcb0c519_5
   - nbclient=0.10.4=py311haa95532_0
   - nbconvert-core=7.17.0=py311haa95532_0
+  - nbconvert-pandoc=7.17.0=py311haa95532_0
   - nbformat=5.10.4=py311haa95532_0
   - nest-asyncio=1.6.0=py311haa95532_0
   - networkx=3.6.1=py311haa95532_0
@@ -160,7 +161,7 @@ dependencies:
   - opencv=4.13.0=py311he37f867_1
   - openh264=2.6.0=hfbc89d2_1
   - openjpeg=2.5.4=h56d5a42_1
-  - openssl=3.5.5=hbb43b14_0
+  - openssl=3.5.6=hbb43b14_0
   - opentelemetry-api=1.38.0=py311haa95532_0
   - overrides=7.7.0=py311haa95532_0
   - packaging=25.0=py311haa95532_1
@@ -236,6 +237,7 @@ dependencies:
   - zlib=1.3.1=h02ab6af_0
   - zstd=1.5.7=h56299aa_0
   - pip:
+      - ale-py==0.11.2
       - contourpy==1.3.3
       - cycler==0.12.1
       - debugpy==1.8.20
